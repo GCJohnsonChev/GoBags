@@ -1,4 +1,4 @@
-Longlasting, Lightweight, Durable, Discrete, MilSpec and More Backpacking Gear.
+Ghost Bag
 
 Budget: ~$2,000 U.S.D.
 
@@ -22,7 +22,7 @@ I have personally selected, assembled, customized and tested this gear for use o
 * https://www.LaCoste.com/us/lacoste/men/accessories/sunglasses/
 [+] Smart Glasses
 [-] Ray-Ban Wayfarer Smart Glasses
-*
+* https://www.Ray-Ban.com
 
 [*] Jewelry
 [+] Wiring
@@ -68,10 +68,13 @@ https://www.Rothco.com/category/tactical-shemagh-military-scarves
 [-] UnderArmour Rain Jacket
 * https://www.UnderArmour.com/en-us/
 
-[*] Ponchos
-[+] Handmade In Mexico Poncho
+[*] Mexican Ponchos & Blankets
+[+] Poncho Serape
 [-] Handmade Hooded Poncho Serape
 https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pullover-unisex-boho-ethnic-festival?variant=35599043166368
+[+] Mexican Pocho Blanket
+[-]
+
 
 [*] Shirts
 [+] Performance Shirts 
@@ -89,15 +92,12 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [+] Performance Thermals
 [-] UnderArmour Polyester Heavyweight Thermals
 * https://www.UnderArmour.com/en-us/
-[-] Cotton Thermals
-[-] Icebreaker Merino Wool Thermals
-* https://www.IceBreaker.com
+[+] Cotton Thermals
 [*] Socks
 [+] Performance Boot Socks
 [-] USOA Anti-Microbial Boot Socks
 * https://www.USPatriotTactical.com/usoa-antimicrobial-socks-3-pairs/usoa_USOA.html
 [-]Merino Wool Boot Socks
- 
 [-] Cotton Boot Socks
 
 [*] Shoes / Boots / Sandals
@@ -218,10 +218,12 @@ https://www.Amazon.com/REEBOW-GEAR-Military-Tactical-Rucksacks/dp/B01KJMK4W2/
 [*] Electronics
 
 [+] Laptops / NoteBooks
-[-] Lenovo T440p With CoreBoot & Gentoo Linux / Arch Linux
+[-] Lenovo T440p With CoreBoot & Gentoo-Linux / Arch-Linux
 * https://www.eBay.com/itm/Lenovo-ThinkPad-14-T440p-Core-i5-Laptop-Windows-10-PRO-8GB-RAM-500GB-HD/274743677636?epid=17030823529&hash=item3ff7ffd2c4:g:sMUAAOSwmkRgZ0NJ
 
-[-] Aluminium Google Chromebook With CoreBoot & Gentoo Linux / Arch Linux
+[-] Lenovo T460p
+
+[-] Aluminium Google Chromebook With CoreBoot & Gentoo-Linux / Arch-Linux
 * https://www.Amazon.com/Google-Pixelbook-Chromebook-64GB-Black/dp/B07YMGQYP6/ref=sr_1_3?dchild=1&keywords=Google[+]Pixelbook&qid=1618182424&s=electronics&sr=1-3
 
 [+] USB Sticks / MicroSDXC Cards / MicroSDHC Cards
@@ -334,21 +336,22 @@ https://www.Amazon.com/REEBOW-GEAR-Military-Tactical-Rucksacks/dp/B01KJMK4W2/
 [*] Financial Institutions & Credit / Debit Cards
 [+] American Express
 [-] American Express Blue Bird
-https://www.BlueBird.com/
+* https://www.BlueBird.com/
 [-] RIA2World
+* https://www.RIAMoneyTransfer.com
 [-] American Express Serve
-https://www.Serve.com/
+* https://www.Serve.com/
 [+] MasterCard
 [-] MasterCard PayPal
-https://www.PayPal.com
+* https://www.PayPal.com
 [+] Non-Backed
 [-] Travelex
-https://www.Travelex.com/travel-money-card
+* https://www.Travelex.com/travel-money-card
 [+] VISA
 [-] VISA CashApp
-https://www.Cash.app/
+* https://www.Cash.app/
 [-] VISA Crypto Metal Card
-https://www.Crypto.org
+* https://www.Crypto.org
 
 [*] Waterproof Plastic Pouches For Kits
 [+] Large Plastic Pouch For Plastic Pouch Kits

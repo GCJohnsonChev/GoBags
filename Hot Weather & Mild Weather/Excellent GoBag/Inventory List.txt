@@ -254,17 +254,24 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [-] Iridium / InmarSat / TerreStar
 * https://www.BlueCosmo.com/iridium-10-150-monthly-service-plans.html
 
-[+] International Mobile Phone Service Plans
+[+] International Cell Service Plans
 [-] Google-Fi
 * https://Fi.Google.com/about/
 
-[+] U.S. Based Mobile Phone Service Plans
+[+] U.S. Based Cell Service Plans
 [-] AT&T
 * https://www.ATT.com/prepaid/
 [-] T-Mobile
 * https://Prepaid.T-Mobile.com/home
 [-] Simple Mobile
 * https://www.SimpleMobile.com
+
+[+] Mexico Based Cell Service Plans
+[-] TelCell
+
+[+] Canada Based Cell Service Plans
+[-] Bell Mobility
+[-] Rogers
 
 [+] Virtual Private Network Services
 [-] ProtonVPN

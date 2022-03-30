@@ -291,8 +291,13 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.Apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug
 
 [+] Power Adapters & Cables
-[-] BlackWeb Braided US / UK / European / Power Adapter
+[-] BlackWeb Braided US / UK / EU / Power Adapter
 * https://www.Walmart.com/ip/Blackweb-4-8A-USB-Type-C-to-Type-A-Cable-and-Wall-Charger-Kit/384519132
+
+[+] Batteries
+[-] Cylindrical Batteries
+[-] Laptop Batteries
+[-] Mobile Cell Phone Batteries
 
 [+] Electronics Faraday / BlackOut Bags
 [-] Faraday Defense

@@ -1,4 +1,4 @@
-Excellent GoBag and Inventory - ~40 Pounds Weight
+Excellent GoBag and Inventory
 
 Budget: ~$1,000 - $2,000 U.S.D.
 
@@ -38,15 +38,15 @@ Budget: ~$1,000 - $2,000 U.S.D.
 [-] Rothco Tactical Shemagh
 https://www.Rothco.com/category/tactical-shemagh-military-scarves
 [+] Face & Neck Gaiters
-[-] GuardWell
+[-] GuardWell Tactical Neck Gaiter
 * https://www.GetGuardWell.com/IDVCFGFP/6.0000/Index.dtm?otsid=23965
 [+] Scarfs
-[-] BurBerry
+[-] BurBerry Luxury Scarf
 * https://us.BurBerry.com/craft-series-cashmere-scarves/
 
 [*] WristWear
 [+] Tactical Travel / Expedition / Adventuring Watches
-[-] Timex Expedition
+[-] Timex Expedition Tactical Watch
 * https://www.Timex.com/browse/men/shop-by-collection/expedition/
 [+] Smart Watches
 [-] 
@@ -56,14 +56,14 @@ https://www.Rothco.com/category/tactical-shemagh-military-scarves
 
 [*] HandWear
 [+] Gloves
-[-] UnderArmour Storm Run Gloves
+[-] UnderArmour Storm Run Tactical Gloves
 * https://www.UnderArmour.com/en-us/p/gloves/mens_ua_storm_run_gloves/1345385.html
 
 [*] Clothing
 
 [*] Jackets
 [+] Performance Jackets
-[-] UnderArmour Rain Jacket
+[-] UnderArmour Tactical Performance Rain Jacket
 * https://www.UnderArmour.com/en-us/
 
 [*] Mexican Ponchos & Blankets
@@ -75,7 +75,7 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 
 [*] Shirts
 [+] Performance Shirts 
-[-] UnderArmour Performance Polyester Shirt
+[-] UnderArmour Tactical Performance Polyester Shirt
 * https://www.UnderArmour.com/en-us/
 
 [*] Jeans
@@ -90,12 +90,16 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [-] UnderArmour Polyester Heavyweight Thermals
 * https://www.UnderArmour.com/en-us/
 [+] Cotton Thermals
+[+] Boxers
+[-] Rothcoe Tactical Boxers
+* https://www.Rothcoe.com
+
 [*] Socks
 [+] Performance Boot Socks
 [-] USOA Anti-Microbial Boot Socks
 * https://www.USPatriotTactical.com/usoa-antimicrobial-socks-3-pairs/usoa_USOA.html
-[-] Merino Wool Boot Socks
-[-] Cotton Boot Socks
+[-] Merino Wool Antimicrobial Boot Socks
+[-] 75% Cotton Antimicrobial Boot Socks
 
 [*] Shoes / Boots / Sandals
 [+] Boots
@@ -107,6 +111,7 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [-] SoloVair
 * https://us.nps-Solovair.com/collections/all/products/s11-981-bk-g?variant=36508662235208
 [+] Sandals
+* Molokai Hawaii Sandals
 
 [*] Shoes / Boots Accessories
 [+] Memory Foam Inserts
@@ -230,7 +235,7 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 
 [+] Laser Keyboard Modules
 [-] AGS Laser Keyboard
-* 
+* https://www.Amazon.com/AGS-Advanced-Projection-Bluetooth-Smartphone/dp/B07QVNT7QF
 
 [+] Internationally Unlocked Mobile Phones / Satellite Phones
 [-] Iridium Satellite Phone
@@ -244,21 +249,22 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.Amazon.com/BlackBerry-KEYone-64GB-BB100-7-International/dp/B073ZLLVQ9/ref=sr_1_8?dchild=1&keywords=blackberry[+]key[+]1&qid=1618180137&sr=8-8
 
 [+] Mobile Phone Cases
-[-] Waterproofed, Dustproofed, Shockproofed, Fireproofed Aluminium Case With Gorilla Glass Version 3, Non-Reversible Titanium Screws
+[-] Waterproofed, Dustproofed, Shockproofed, Fireproofed Aluminium Case With Gorilla Glass Version 3, Non-Reversible Titanium Screws and Paracord-Kevlar 550 Lanyard Loop
 [-] OtterBox Defender Case With Belt Clip
 
-[+] Mobile Phone Privacy Screen Protectors
-[-] ScreenShield, PrivateScreen
+[+] Privacy Screen Protectors
+[-] Mobile Phone Device ScreenShield, PrivateScreen / PrivacyScreen
+[-] Laptop Device ScreenShield, PrivateScreen / PrivacyScreen
 
-[+] Satellite Phone Service Plans
-[-] Iridium / InmarSat / TerreStar
+[+] Satellite Phone Cash-Prepaid Service Plans
+[-] Iridium / InmarSat / TerreStar / Thuraya
 * https://www.BlueCosmo.com/iridium-10-150-monthly-service-plans.html
 
-[+] International Cell Service Plans
+[+] International Cash-Prepaid Cell Service Plans
 [-] Google-Fi
 * https://Fi.Google.com/about/
 
-[+] U.S. Based Cell Service Plans
+[+] U.S. Based Cash-Prepaid Cell Service Plans
 [-] AT&T
 * https://www.ATT.com/prepaid/
 [-] T-Mobile
@@ -266,14 +272,14 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [-] Simple Mobile
 * https://www.SimpleMobile.com
 
-[+] Mexico Based Cell Service Plans
+[+] Mexico Based Cash-Prepaid Cell Service Plans
 [-] TelCell
 
-[+] Canada Based Cell Service Plans
+[+] Canada Based Cash-Prepaid Cell Service Plans
 [-] Bell Mobility
 [-] Rogers
 
-[+] Virtual Private Network Services
+[+] Virtual Private Network Cash-Prepaid Services
 [-] ProtonVPN
 * https://www.ProtonVPN.com
 [-] NordVPN
@@ -291,13 +297,8 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.Apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug
 
 [+] Power Adapters & Cables
-[-] BlackWeb Braided US / UK / EU / Power Adapter
+[-] BlackWeb Braided US / UK / European / Power Adapter & Power / Data Cable
 * https://www.Walmart.com/ip/Blackweb-4-8A-USB-Type-C-to-Type-A-Cable-and-Wall-Charger-Kit/384519132
-
-[+] Batteries
-[-] Cylindrical Batteries
-[-] Laptop Batteries
-[-] Mobile Cell Phone Batteries
 
 [+] Electronics Faraday / BlackOut Bags
 [-] Faraday Defense

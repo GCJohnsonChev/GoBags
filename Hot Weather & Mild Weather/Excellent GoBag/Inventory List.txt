@@ -49,7 +49,8 @@ https://www.Rothco.com/category/tactical-shemagh-military-scarves
 [-] Timex Expedition Tactical Watch
 * https://www.Timex.com/browse/men/shop-by-collection/expedition/
 [+] Smart Watches
-[-] 
+[-] Timex Smart Watch
+* https://www.Timex.com/browse/smartwatches/
 [+] Watch Bands
 [-] NATO Style Nylon Watch Band
 * https://www.Walmart.com/ip/Watch-Band-Nylon-NATO-Strap-Ballistic-Nylon-with-Stainless-Steel-Buckle-for-Watches-Fitness-Devices-Black-Gray-24mm/261901332
@@ -169,7 +170,7 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [+] Flashlight
 [-] Hardned Aluminium 1,200 Lumens T6 LED Flashlight
 * https://www.eBay.com
-[+] UV Pen Light
+[+] UV / BlackLight Pen Light
 [-] GearLight Ultra-Violet Pen Light
 * https://www.eBay.com/
 
@@ -299,6 +300,13 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [+] Power Adapters & Cables
 [-] BlackWeb Braided US / UK / European / Power Adapter & Power / Data Cable
 * https://www.Walmart.com/ip/Blackweb-4-8A-USB-Type-C-to-Type-A-Cable-and-Wall-Charger-Kit/384519132
+
+[+] Batteries
+[-] 06-Cell Lenovo T OEM Laptop Battery
+[-] 12-Cell Lenovo T OEM Laptop Battery
+[-] 6,000 Milliampere Hour Mobile Phone Battery
+[-] 8,000 Milliampere Hour Mobile Phone Battery
+[-] 6,000 Milliampere Hour 21700 Cylindrical Battery
 
 [+] Electronics Faraday / BlackOut Bags
 [-] Faraday Defense

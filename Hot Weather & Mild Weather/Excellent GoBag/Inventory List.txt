@@ -152,8 +152,9 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.Walmart.com/ip/Vertical-Clear-Plastic-ID-Badge-Card-Holder-Pocket-Pouch-4pcs/50256776
 [+] Carabiners
 [-] NiteIze 75 LBS
-* https://www.NiteIze.com/collection/New-Products.asp
+* https://www.NiteIze.com
 [-] NiteIze CamJam
+* https://www.NiteIze.com
 
 [*] Survival Accessories
 [+] Rain Jackets
@@ -265,7 +266,7 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [-] Google-Fi
 * https://Fi.Google.com/about/
 
-[+] U.S. Based Cash-Prepaid Cell Service Plans
+[+] U.S.-Based Cash-Prepaid Cell Service Plans
 [-] AT&T
 * https://www.ATT.com/prepaid/
 [-] T-Mobile
@@ -273,14 +274,18 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [-] Simple Mobile
 * https://www.SimpleMobile.com
 
-[+] Mexico Based Cash-Prepaid Cell Service Plans
+[+] Mexico-Based Cash-Prepaid Cell Service Plans
 [-] TelCell
 
-[+] Canada Based Cash-Prepaid Cell Service Plans
+[+] Canada-Based Cash-Prepaid Cell Service Plans
 [-] Bell Mobility
 [-] Rogers
 
-[+] Virtual Private Network Cash-Prepaid Services
+[+] E.U.-Based Cash-Prepaid Cell Service Plans
+
+[+] UAE-Based Cash-Prepaid Cell Service Plans
+
+[+] No-Log Virtual Private Network Cash-Prepaid Services
 [-] ProtonVPN
 * https://www.ProtonVPN.com
 [-] NordVPN

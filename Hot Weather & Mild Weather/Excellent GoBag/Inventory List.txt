@@ -275,15 +275,24 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.SimpleMobile.com
 
 [+] Mexico-Based Cash-Prepaid Cell Service Plans
-[-] TelCell
+[-] TelCel
+* https://www.TelCel.com
 
 [+] Canada-Based Cash-Prepaid Cell Service Plans
 [-] Bell Mobility
+* https://www.Bell.ca
 [-] Rogers
+* https://www.Rogers.ca
 
 [+] E.U.-Based Cash-Prepaid Cell Service Plans
+[-] VodaFone
+* https://www.VodaFone.com
+[-] ThreeUK
+* https://www.Three.co.uk
 
 [+] UAE-Based Cash-Prepaid Cell Service Plans
+[-] Etisilat
+* https://www.Etisilat.ae
 
 [+] No-Log Virtual Private Network Cash-Prepaid Services
 [-] ProtonVPN
@@ -309,9 +318,9 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [+] Batteries
 [-] 06-Cell Lenovo T OEM Laptop Battery
 [-] 12-Cell Lenovo T OEM Laptop Battery
-[-] 6,000 Milliampere Hour Mobile Phone Battery
-[-] 8,000 Milliampere Hour Mobile Phone Battery
-[-] 6,000 Milliampere Hour 21700 Cylindrical Battery
+[-] Samsung 6,000 Milliampere Hour Mobile Phone Battery
+[-] Samsung 8,000 Milliampere Hour Mobile Phone Battery
+[-] Samsung 6,000 Milliampere Hour 21700 Cylindrical Battery
 
 [+] Electronics Faraday / BlackOut Bags
 [-] Faraday Defense
@@ -351,12 +360,10 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 [+] Travel Size Hydrogen Peroxide
 [+] Travel Size Cut / Gash Wax
 
-[*] Financial Institutions & Credit / Debit Cards
+[*] U.S.-Based Cash-Prepaid Financial Institutions & Credit / Debit Cards
 [+] American Express
 [-] American Express Blue Bird
 * https://www.BlueBird.com/
-[-] RIA2World
-* https://www.RIAMoneyTransfer.com
 [-] American Express Serve
 * https://www.Serve.com/
 [+] MasterCard
@@ -370,6 +377,10 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.Cash.app/
 [-] VISA Crypto Metal Card
 * https://www.Crypto.org
+
+[*] International Money Transfer Companies
+[-] RIA2World
+* https://www.RIAMoneyTransfer.com
 
 [*] Waterproof Plastic Pouches For Kits
 [+] Large Plastic Pouch For Plastic Pouch Kits

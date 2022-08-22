@@ -51,8 +51,10 @@ https://www.Rothco.com/category/tactical-shemagh-military-scarves
 [+] Smart Watches
 [-] Timex Smart Watch
 * https://www.Timex.com/browse/smartwatches/
+[-] Lenovo Smart Watch
+* https://www.Lenovo.com
 [+] Watch Bands
-[-] NATO Style Nylon Watch Band
+[-] ( NATO ) Military Style Nylon Watch Band
 * https://www.Walmart.com/ip/Watch-Band-Nylon-NATO-Strap-Ballistic-Nylon-with-Stainless-Steel-Buckle-for-Watches-Fitness-Devices-Black-Gray-24mm/261901332
 
 [*] HandWear
@@ -249,6 +251,20 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.Amazon.com/OtterBox-Defender-Holster-Google-Pixel/dp/B08BT53W7S/ref=sr_1_3?dchild=1&keywords=otterbox[+]google[+]pixel[+]3xl[+]case&qid=1618182840&sr=8-3
 [-] Internationally Unlocked BlackBerry
 * https://www.Amazon.com/BlackBerry-KEYone-64GB-BB100-7-International/dp/B073ZLLVQ9/ref=sr_1_8?dchild=1&keywords=blackberry[+]key[+]1&qid=1618180137&sr=8-8
+[-] Internationally Unlocked Lenovo Phones
+* https://www.Lenovo.com/my/en/smartphones/c/smartphones
+
+[+] Custom Electronics Firmware and Software
+[-] Mobile Phones
+* Lineage-OS
+* Gentoo-Linux
+[-] Laptops and NoteBooks
+* Gentoo-Linux
+* Arch-Linux
+* CoreBoot
+[-] Smart Watches
+* Lineage-OS
+
 
 [+] Mobile Phone Cases
 [-] Waterproofed, Dustproofed, Shockproofed, Fireproofed Aluminium Case With Gorilla Glass Version 3, Non-Reversible Titanium Screws and Paracord-Kevlar 550 Lanyard Loop

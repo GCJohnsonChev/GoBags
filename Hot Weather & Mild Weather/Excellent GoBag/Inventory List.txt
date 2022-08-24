@@ -2,7 +2,7 @@ Excellent GoBag and Inventory
 Dry, Hot Weather and Dry, Mild Weather Conditions
 Mountains, Desert, Coast
 
-Budget: ~$1,000 - $2,000 U.S.D.
+Budget: ~$1,000 - $2,000 U.S.D. or Euro Equivalent
 
 [+] Clothing / Jewelry / Sandals - Shoes - Boots / Accessories / Backpacks / Electronics
 
@@ -126,7 +126,7 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://SofSole.Implus.com/products/comfort-insoles/memory-plus-foam-insoles
 
 [+] Shoe / Boot Laces
-[-] Paracord 550 Metal Tips
+[-] Paracord 550 Hardened Kevlar Reinforced Titanium-Metal Tipped Boot Laces
 * https://www.Amazon.com/550-Paracord-Boot-Laces-Milspec/dp/B07C33RGHW
 
 [+] Boot / Shoe Outsole Rubber Cement
@@ -145,11 +145,12 @@ https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pul
 * https://www.Rothco.com/product/rothco-adjustable-elastic-x-back-pant-suspenders/4196
 
 [*] Backpacks
-[+] Military Issue Molle Backpack / FlatPack
+[+] Military Issue Desert Molle Backpack / FlatPack
 [+] Military Specification Molle Backpack
 [+] Molle Backpack
 [-] Voodoo Tactical 3 Day Assault Pack
 *
+[+] Military Issue Rubber WaterProofed, FireProofed Top-Loader Backpack
 
 [*] Backpack Attachments
 [-] ID Card Holder
